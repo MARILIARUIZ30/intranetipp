@@ -1,0 +1,88 @@
+.version.sin_t_tulo_4 /* version checker */
+{
+	color: #0000E2;
+	background-color: #F82002;
+}
+
+#page
+{
+	padding-top: 175px;
+	background-color: transparent;
+	margin-right: auto;
+	min-height: 263px;
+	margin-left: auto;
+	background-image: none;
+	z-index: 1;
+	padding-bottom: 62px;
+	width: 100%;
+	border-color: #000000;
+	border-width: 0px;
+}
+
+#u1995
+{
+	background-color: transparent;
+	width: 87.5%;
+	margin-left: 6.25%;
+	z-index: 2;
+	position: relative;
+}
+
+#u1991
+{
+	width: 100%;
+	display: block;
+	z-index: 3;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+}
+
+@media (min-width: 321px)
+{
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		max-width: 960px;
+	}
+}
+
+@media (max-width: 320px)
+{
+	#muse_css_mq
+	{
+		background-color: #000140;
+	}
+
+	#bp_320.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		max-width: 320px;
+	}
+
+	body
+	{
+		min-width: 320px;
+	}
+}
+

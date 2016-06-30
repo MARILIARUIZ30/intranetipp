@@ -1,0 +1,119 @@
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		max-width: 960px;
+	}
+
+	#u151_align_to_page
+	{
+		max-width: 960px;
+		padding-top: 180px;
+		padding-bottom: 23px;
+	}
+
+	#u273-4
+	{
+		width: 32.4%;
+		left: 13.13%;
+	}
+
+	#u2078
+	{
+		padding-bottom: 54.08499999999995px;
+		margin-top: 27px;
+		left: 11.98%;
+	}
+
+	#u2179
+	{
+		width: 39.34%;
+		margin-left: 56.71%;
+	}
+
+	#u295-4
+	{
+		margin-top: 17px;
+		width: 29%;
+		margin-left: 5.11%;
+	}
+
+	#u305-4
+	{
+		margin-top: 5px;
+		width: 19.8%;
+		margin-left: 5.11%;
+	}
+
+	#u310-4
+	{
+		margin-top: 13px;
+		width: 29%;
+		margin-left: 5.11%;
+	}
+
+	#u340-4
+	{
+		top: -2px;
+		margin-bottom: -2px;
+		width: 19.8%;
+		margin-left: 5.11%;
+	}
+
+	#u301,#u346
+	{
+		top: -2px;
+		margin-bottom: -2px;
+		margin-left: 5.11%;
+	}
+
+	#pu2251
+	{
+		margin-top: 5px;
+		width: 1.03%;
+		margin-left: 46.49%;
+	}
+
+	#u2251,#u2264,#u2276,#u2288
+	{
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u2286
+	{
+		margin-bottom: -2325%;
+		width: 2500%;
+	}
+
+	#pu819-4
+	{
+		margin-top: 74px;
+	}
+
+	#u819-4
+	{
+		margin-top: 7px;
+		width: 16.15%;
+		left: 73.23%;
+	}
+
+	#u2446
+	{
+		width: 4.07%;
+		left: 80.32%;
+	}
+
+	#u151,#u151-bw
+	{
+		min-height: 660px;
+	}
+

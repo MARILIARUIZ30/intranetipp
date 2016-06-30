@@ -1,0 +1,52 @@
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="intranetippruiz.com" resolutions="1x" timestamp="1467319214563">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="index.css" crc="354140929" ref="index"/>
+    <file name="nomq_index.css" crc="504153803" ref="index"/>
+    <file name="sin-t_tulo-4.css" crc="3807911938" ref="sin-título-4"/>
+    <file name="nomq_sin-t_tulo-4.css" crc="493670487" ref="sin-título-4"/>
+    <file name="sin-t_tulo-5.css" crc="332135695" ref="sin-título-5"/>
+    <file name="nomq_sin-t_tulo-5.css" crc="493670487" ref="sin-título-5"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:sin-título-4:sin-título-5"/>
+    <file name="museutils.js" crc="3790713428" ref="index:sin-título-4:sin-título-5"/>
+    <file name="whatinput.js" crc="84559013" ref="index:sin-título-4:sin-título-5"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:sin-título-4:sin-título-5"/>
+    <file name="jquery.museresponsive.js" crc="3895133147" ref="index:sin-título-4:sin-título-5"/>
+  </folder>
+  <folder name="images">
+    <file name="u273-4.png" crc="136432405" ref="index"/>
+    <file name="logotipo_ipp_2011.jpg" crc="34640709" seo="true" ref="index"/>
+    <file name="u295-4.png" crc="518143314" ref="index"/>
+    <file name="u305-4.png" crc="203567335" ref="index"/>
+    <file name="u310-4.png" crc="27008121" ref="index"/>
+    <file name="u340-4.png" crc="531825726" ref="index"/>
+    <file name="svg-pegado-844x14.svg" crc="3960214052" ref="index"/>
+    <file name="svg pegado 844x14_poster_.png" crc="294540115" ref="index"/>
+    <file name="svg-pegado-844x142.svg" crc="3960214052" ref="index"/>
+    <file name="svg pegado 844x14_poster_2.png" crc="294540115" ref="index"/>
+    <file name="svg-pegado-844x143.svg" crc="3960214052" ref="index"/>
+    <file name="svg pegado 844x14_poster_3.png" crc="294540115" ref="index"/>
+    <file name="svg-pegado-844x144.svg" crc="3960214052" ref="index"/>
+    <file name="svg pegado 844x14_poster_4.png" crc="4275243606" ref="index"/>
+    <file name="u819-4.png" crc="299316053" ref="index"/>
+    <file name="edit-button.svg" crc="4006239095" ref="index"/>
+    <file name="edit-button_poster_.png" crc="51904154" ref="index"/>
+    <file name="u273-42.png" crc="351953532" ref="index"/>
+    <file name="u295-42.png" crc="80953030" ref="index"/>
+    <file name="u305-42.png" crc="269209363" ref="index"/>
+    <file name="u310-42.png" crc="414410480" ref="index"/>
+    <file name="u340-42.png" crc="353587446" ref="index"/>
+    <file name="u819-42.png" crc="4277983248" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:sin-título-4:sin-título-5"/>
+    <file name="imagen-2.svg" crc="4004703345" ref="sin-título-4"/>
+    <file name="imagen 2_poster_.png" crc="4292707946" ref="sin-título-4"/>
+    <file name="imagen-3.svg" crc="4202850558" ref="sin-título-5"/>
+    <file name="imagen 3_poster_.png" crc="4292707946" ref="sin-título-5"/>
+  </folder>
+  <file name="index.html" crc="296247839" seo="true" mt="1467318640543" redirect="true"/>
+  <file name="sin-título-4.html" crc="278160287" seo="true" mt="1467319214117" redirect="true"/>
+  <file name="sin-título-5.html" crc="34705669" seo="true" mt="1467319214315" redirect="true"/>
+</manifest>

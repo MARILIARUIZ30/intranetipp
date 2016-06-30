@@ -1,0 +1,100 @@
+.version.sin_t_tulo_5 /* version checker */
+{
+	color: #000013;
+	background-color: #CBFD0F;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
+}
+
+#page
+{
+	min-height: 438px;
+	padding-bottom: 62px;
+	margin-right: auto;
+	background-image: none;
+	z-index: 1;
+	background-color: transparent;
+	width: 100%;
+	border-color: #000000;
+	margin-left: auto;
+	border-width: 0px;
+}
+
+#u2033
+{
+	background-color: transparent;
+	min-height: 480px;
+	z-index: 2;
+}
+
+#u2029
+{
+	z-index: 3;
+	display: block;
+}
+
+#u2033-bw
+{
+	min-height: 480px;
+	z-index: 2;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+}
+
+@media (min-width: 321px)
+{
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		max-width: 960px;
+	}
+}
+
+@media (max-width: 320px)
+{
+	#muse_css_mq
+	{
+		background-color: #000140;
+	}
+
+	#bp_320.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		max-width: 320px;
+	}
+
+	body
+	{
+		min-width: 320px;
+	}
+}
+
